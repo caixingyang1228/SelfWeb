@@ -1,0 +1,104 @@
+.statement {
+          font-size: 100px;
+          font-family: Helvetica, Arial, sans-serif;
+          font-weight: bold;
+          line-height: 100px;
+          vertical-align: bottom;
+          text-align: left;
+          white-space: normal;
+        }
+
+.whatisart {
+          font-size: 100px;
+          font-family: Helvetica, Arial, sans-serif;
+          font-weight: bold;
+          line-height: 100px;
+          vertical-align: bottom;
+          text-align: left;
+          white-space: normal;
+        }
+
+.supplement {
+            font-size: 100px;
+            font-family: Helvetica, Arial, sans-serif;
+            font-weight: bold;
+            line-height: 110px;
+            vertical-align: bottom;
+            text-align: left;
+            white-space: normal;
+            text-decoration:none;
+            color:blue;
+            }
+
+.wholestatement {
+                 display:none;
+                  }
+
+#statement:hover {color:blue;font-style: italic;}
+#ends:hover {color:red;font-style: italic;}
+#deinstrumentalization:hover {color:red;font-style: italic;}
+#perspectivism:hover {color:red;font-style: italic;}
+.planners:hover {color:red;font-style: italic;}
+#definition:hover {color:red;font-style: italic;}
+.experimental:hover {color:red;font-style: italic;}
+#makers:hover {color:red;font-style: italic;}
+
+
+#ofcourse {
+  display:none;
+}
+#ofcourse span {
+  background-color: black;
+  color:white;
+}
+#ifart {
+  display:none;
+}
+#ifart span{
+  background-color: black;
+  color:white;
+}
+#notthe {
+  display:none;
+  font-size: 100px;
+}
+#notthe span{
+  background-color: black;
+  color:white;
+}
+#ripples {
+  display:none;
+  font-size: 100px;
+}
+#ripples span{
+  background-color: black;
+  color:white;
+}
+
+#socialsystems{
+  display:none;
+  font-size: 100px;
+}
+#socialsystems{
+  background-color: black;
+  color:white;
+}
+#selfconsistent{
+  display:none;
+  font-size: 100px;
+}
+#selfconsistent{
+  background-color: black;
+  color:white;
+}
+#selfish{
+  display:none;
+  font-size: 100px;
+}
+#selfish{
+  background-color: black;
+  color:white;
+}
+
+a{ text-decoration:none;
+   color:black;}
